@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="MotherOfDragons-master.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BotonDragoncitos.cs">
+    <Files>
+      <File FileName="Assets\Script\Peleador.cs" Line="87" Column="5" />
+      <File FileName="Assets\Script\ManagerPelea.cs" Line="700" Column="3" />
+      <File FileName="Assets\Scripts\BotonDragoncitos.cs" Line="22" Column="31" />
+      <File FileName="Assets\Scripts\Controlador.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
